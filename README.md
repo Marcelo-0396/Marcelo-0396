@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/marcelo-bittencourt-rosa-filho?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FB2ilWxxS0%2B%2FVSGLkZdtfQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_rosafilho/" target="_blank">
+  <a href="https://www.instagram.com/_tchel0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
