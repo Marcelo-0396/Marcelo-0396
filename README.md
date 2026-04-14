@@ -24,7 +24,7 @@ Busco oportunidade de estágio em desenvolvimento de software para aplicar meus 
 
 ## Contato
 - **Email:** marcelobrf@outlook.com  
-- **Linkedin:** https://linkedin.com/in/marcelo-bittencourt-rosa-filho  
+- **Linkedin:** https://linkedin.com/in/marcelobrf  
 - **Github:** https://github.com/Marcelo-0396
 
 ---
