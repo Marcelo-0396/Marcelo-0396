@@ -1,4 +1,4 @@
-# Marcelo Bittencourt — Desenvolvedor de software (Graduando em Engenharia de Software)
+# Marcelo Bittencourt — Estudante de Enghenaria de Software (Graduando em Engenharia de Software)
 
 **Resumo:** Graduando em Engenharia de Software com base técnica em Logística. Foco em desenvolvimento web utilizando HTML, CSS e JavaScript, criando interfaces funcionais, organizadas e com boa experiência de usuário.
 
@@ -11,7 +11,7 @@
 ---
 
 ## Habilidades Técnicas
-- **Linguagens e Tecnologias Principais:** HTML5, CSS3, JavaScript (ES6+)  
+- **Linguagens e Tecnologias Principais (Nível = Básico) :** HTML5, CSS3, JavaScript (ES6+)
 - **Controle de Versão:** Git  
 - **Boas práticas:** Estruturação semântica, responsividade, organização de código
 
