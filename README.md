@@ -1,4 +1,4 @@
-# Marcelo Bittencourt — Estudante de Enghenaria de Software (Graduando em Engenharia de Software)
+# Marcelo Bittencourt — Estudante de Engenharia de Software (Graduando em Engenharia de Software)
 
 **Resumo:** Graduando em Engenharia de Software com base técnica em Logística. Foco em engenharia de software utilizando HTML, CSS e JavaScript, criando interfaces funcionais, organizadas e com boa experiência de usuário.
 
@@ -6,7 +6,7 @@
 
 ## Formação
 - **Bacharelado em Engenharia de Software** — Em andamento.  
-- **Curso Técnico em Logística** — Concluído.
+- **Tecnólogo em Logística** — Concluído.
 
 ---
 
