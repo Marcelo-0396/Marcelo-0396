@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudante de Engenharia de Software | Apaixonado por Tecnologia, IA e Inovação
 
-Sou um profissional com um perfil híbrido e estratégico, unindo uma sólida formação operacional como Tecnólogo em Logística a uma transição estruturada para a área de Tecnologia. Meu foco atual é o Desenvolvimento de Software, unindo eficiência de processos, infraestrutura de redes e Inteligência Artificial.
+Sou um estudante com um perfil híbrido e estratégico, unindo uma sólida formação operacional como Tecnólogo em Logística a uma transição estruturada para a área de Tecnologia. Meu foco atual é o Desenvolvimento de Software, unindo eficiência de processos, infraestrutura de redes e Inteligência Artificial.
 
 ---
 
