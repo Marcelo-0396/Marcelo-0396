@@ -32,8 +32,7 @@ Sou um estudante com um perfil híbrido e estratégico, unindo uma sólida forma
 
 - 🌐 **CCNA: Introdução às Redes** – Cisco Networking Academy / UNIJORGE (70h)
 - 📡 **Introdução à IoT e Transformação Digital** – Cisco Networking Academy (6h)
-- 🚀 **Imersão Semana Carreira Tech** – FIAP + Alura (5h)
-  *Módulos: Inteligência Artificial & Dados, Cibersegurança, Robótica & Programação, Inovação.*
+- 🚀 **Imersão Semana Carreira Tech** – FIAP + Alura (5h) **Módulos: Inteligência Artificial & Dados, Cibersegurança, Robótica & Programação, Inovação**
 - 📊 **Operador de Computador (Pacote Office & Excel)** – Prepara Cursos (64h)
 
 ---
@@ -42,4 +41,4 @@ Sou um estudante com um perfil híbrido e estratégico, unindo uma sólida forma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelobrf)
 [![Outlook](https://img.shields.io/badge/E_mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcelobrf@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelofbr_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tchel0__)
